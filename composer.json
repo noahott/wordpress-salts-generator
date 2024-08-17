@@ -1,5 +1,5 @@
 {
-    "name": "rbdwllr/wordpress-salts-generator",
+    "name": "noahott/wordpress-salts-generator",
     "description": "A key and salts generator for WordPress that works with both wp-config and .env files.",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Rob Waller",
             "email": "rdwaller1984@gmail.com"
+        },
+        {
+            "name": "Noah Ottenstein",
+            "email": "noah@tnintegratedsolutions.com"
         }
     ],
     "keywords": ["wordpress", "salts", "keys", "cli"],
